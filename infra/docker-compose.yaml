@@ -9,7 +9,7 @@ services:
       - ./.env
 
   web:
-    image: denchik79/infra_sp2:latest
+    image: denchik79/yamdb_final:latest
     restart: always
     volumes:
       - static_value:/app/static/
