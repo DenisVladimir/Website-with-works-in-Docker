@@ -55,7 +55,7 @@ jobs:
           push: true
           tags: denchik79/yamdb_final:latest 
           file: api_yamdb/Dockerfile 
-          
+          context: ./api_yamdb
 
   deploy:
     runs-on: ubuntu-latest
