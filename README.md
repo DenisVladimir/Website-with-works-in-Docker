@@ -1,4 +1,4 @@
-# YaMDB_FINAL в контейнере Docker
+# YaMDB_FINAL в контейнере Docker (КОМАНДНЫЙ ПРОЕКТ)
 [![YaMDB_FINAL project workflow](https://github.com/bondarval/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?branch=main)](https://github.com/bondarval/yamdb_final/actions/workflows/yamdb_workflow.yml)
 
 [![Python](https://img.shields.io/badge/-Python-464646?style=flat-square&logo=Python)](https://www.python.org/)
@@ -121,5 +121,12 @@ docker-compose down -v --remove-orphans
 ```
 ## Примеры API-запросов
 Подробные примеры запросов и коды ответов приведены в прилагаемой документации в формате ReDoc 
+
 ## Авторы
-- Дятликович Денис
+Проект разработан командой из трех человек в рамках учебного курса Яндекс.Практикум.
+
+## Разработчики
+
+1. Денис Дятликович
+2. Анастасия Королева
+3. Бислан Керимов:
